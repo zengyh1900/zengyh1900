@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on computer vision, image/video synthesis. 
+- 🌱 I’m currently taking an internship in MSRA. 
+- 👯 I’m actively seeking job opportunities, please feel free to contact me if there are any!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1900zyh&count_private=true&show_icons=true&theme=dracula)
+
+
+
 <!--
 **1900zyh/1900zyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
